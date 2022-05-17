@@ -5,7 +5,7 @@
   Tela de login e cadastro para petshop. O design foi feito utilizando o Figma no codigo utilizei HTML semântico e CSS Flexbox. O site é responsivo e pode ser visualizado através do primeiro link abaixo...
 
 
-  </div>
+  </div border="1">
   <h2 align="left">Tela de login</h2>
   <img src="https://user-images.githubusercontent.com/17308374/168814066-4d783164-bb53-464d-bdd4-56098b68dc7f.png">
   <h2 align="left">Tela de cadastro</h2>
