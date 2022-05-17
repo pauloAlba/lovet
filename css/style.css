@@ -10,12 +10,20 @@
     margin: 0;
     padding: 0;
 }
-
+.miniLogo{
+    display: none;
+}
+@media (max-width: 55em){
+    .miniLogo{
+        display: visible;
+        z-index: 1;
+    }
+}
 body{
     display: flex;
     flex-direction: row;
     background-color: white;
-    font-family: cursive;
+    font-family: "sans-serif" cursive ;
     column-rule: #FBFBFB;
     font-weight: 100;
 }
