@@ -1,12 +1,13 @@
 
   <div align="center">
-   <h2>Petshop - Lovet</h2>
-  
+   <h1>Petshop - Lovet</h1>
+  <div align="left">
   Tela de login e cadastro para petshop. O design foi feito utilizando o Figma no codigo utilizei HTML semântico e CSS Flexbox. O site é responsivo e pode ser visualizado através do primeiro link abaixo...
+  </div>
 
 Links para o projeto:
 
-Página online: https://bit.ly/38xWGcL
+Página online: https://bit.ly/38xWGcL <br>
 Design Figma: https://bit.ly/3FVbTky
 
   <h2>Tela de login</h2>
