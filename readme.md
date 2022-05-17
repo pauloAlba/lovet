@@ -12,7 +12,7 @@
   <img src="https://user-images.githubusercontent.com/17308374/168814952-caf08ab0-4a35-4fa3-8878-16e9df0d1a28.png">
   </div>
   
-  Links para o projeto:
+ <strong>Links para o projeto:</strong>
 
 Página online: https://bit.ly/38xWGcL <br>
 Design Figma: https://bit.ly/3FVbTky
