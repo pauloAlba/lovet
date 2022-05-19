@@ -22,6 +22,8 @@
   
  <strong>Links para o projeto:</strong>
 
-Página online: https://bit.ly/38xWGcL <br>
+Página online: https://bit.ly/38xWGcL
+<br>
 Design Figma: https://bit.ly/3FVbTky
-imagens: pexels.com
+<br>
+imagens: https://pexels.com
